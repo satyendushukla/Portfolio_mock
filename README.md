@@ -29,7 +29,7 @@ This portfolio website is a personal project to display my projects, skills, and
     git clone https://github.com/yourusername/portfolio-website.git
     ```
 2. Navigate to the project directory:
-   ...
+   ```
     cd portfolio-website
     ```
 
